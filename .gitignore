@@ -1,0 +1,17 @@
+# Datos y salidas
+dataset/
+yolo_data/
+runs/
+
+# Pesos y modelos
+*.pt
+*.onnx
+*.engine
+
+# Notebooks y editor
+.ipynb_checkpoints/
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
