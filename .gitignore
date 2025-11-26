@@ -1,7 +1,7 @@
 # Datos y salidas
 dataset/
 yolo_data/
-runs/
+
 
 # Pesos y modelos
 *.pt
