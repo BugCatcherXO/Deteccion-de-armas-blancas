@@ -6,7 +6,6 @@ Armas_Blancas_RayosX-1/train
 Armas_Blancas_RayosX-1/test
 
 # Pesos y modelos
-*.pt
 *.onnx
 *.engine
 
