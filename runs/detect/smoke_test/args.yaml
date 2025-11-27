@@ -1,7 +1,7 @@
 task: detect
 mode: train
 model: yolov8s.pt
-data: yolo_data\dataset.yaml
+data: Armas_Blancas_RayosX-1\data.yaml
 epochs: 10
 time: null
 patience: 100

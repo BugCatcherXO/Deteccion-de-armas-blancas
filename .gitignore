@@ -1,7 +1,9 @@
 # Datos y salidas
 dataset/
 yolo_data/
-
+Armas_Blancas_RayosX-1/
+Armas_Blancas_RayosX-1/train
+Armas_Blancas_RayosX-1/test
 
 # Pesos y modelos
 *.pt
