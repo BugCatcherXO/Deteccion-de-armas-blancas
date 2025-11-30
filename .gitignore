@@ -1,9 +1,5 @@
 # Datos y salidas
-dataset/
-yolo_data/
-Armas_Blancas_RayosX-1/
-Armas_Blancas_RayosX-1/train
-Armas_Blancas_RayosX-1/test
+DETECCION_ARMAS_BLANCAS_RAYOSX-1/
 
 # Pesos y modelos
 *.onnx
@@ -13,6 +9,10 @@ Armas_Blancas_RayosX-1/test
 .ipynb_checkpoints/
 .vscode/
 
-# Archivos del sistema
+# Archcivos del sistema
 .DS_Store
 Thumbs.db
+
+
+yolo11n.pt
+yolov8s.pt
